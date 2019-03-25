@@ -12,4 +12,5 @@ Yell out if you need anything else. Let's party.
 
 ### Known extensions ###
 * **1900** Just a demo
+* **1923** Mental Help Hotline
 * **1995** Gives you the rundown of 1995
