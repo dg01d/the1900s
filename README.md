@@ -16,3 +16,4 @@ Yell out if you need anything else. Let's party.
 * **1923** Mental Help Hotline
 * **1987** SDF VoIP gateway test *(wait for dialtone then punch in an SDF ext. that has direct calls enabled)*
 * **1995** Gives you the rundown of 1995
+* **1999** Let's party like it's 1999!
